@@ -1,14 +1,12 @@
 # Readme
 
-## Intro
-
 [Instant Answer Fathead](https://duck.co/ia/view/eslint) for [ESLint](http://eslint.org/).
 
-### Dependencies
+## Dependencies
 
 Node >= v7.0
 
-### Inportant References
+## Useful References
 - DDH docs main page: https://docs.duckduckhack.com/
 - DDH docs fathead intro: https://docs.duckduckhack.com/resources/fathead-overview.html
 
